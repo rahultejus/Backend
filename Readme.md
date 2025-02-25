@@ -1,4 +1,4 @@
-#Learning backend with chai aur code ##Hitesh Choudhary
+#Learning backend with chai aur code from Hitesh Choudhary
 
 ## Creating a project using backend Technologies
 
